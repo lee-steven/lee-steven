@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Steven 👋🏼☺️
+
+I'm a software engineer by day and a artist/designer, cook, dancer by night. I enjoy working in web with technologies like ReactJS, Typescript, and Node.js to create impactful and user centered web apps. 
+
+
 
 <!--
 **lee-steven/lee-steven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
