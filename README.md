@@ -2,8 +2,10 @@
 
 I'm a software engineer by day and a artist/designer, cook, dancer by night. I enjoy working in web with technologies like ReactJS, Typescript, and Node.js to create impactful and user centered web apps. 
 
-#### Let's connect
-[![Facebook](/icons/facebook.png)](https://www.facebook.com/steven.lee.104)
+#### Let's connect!
+<a href="https://www.linkedin.com/in/lee-steven/"><img src="icons/linkedin.png" width="30" style="display:inline-block; padding-right:30px"></a>
+<a href="https://www.instagram.com/stevenwonlee/"><img src="icons/instagram.png" width="30" style="display:inline-block; padding-right:30px"></a>
+<a href="https://www.facebook.com/steven.lee.104"><img src="icons/facebook.png" width="30" style="display:inline-block; padding-right:30px"></a>
 
 <!--
 **lee-steven/lee-steven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
