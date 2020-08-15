@@ -3,9 +3,9 @@
 I'm a software engineer by day and a artist/designer, cook, baker, dancer by night. I enjoy working in web with technologies like ReactJS, Typescript, and Node.js to create impactful and user centered web apps. 
 
 ## Let's connect!
-<a href="https://www.linkedin.com/in/lee-steven/"><img src="https://raw.githubusercontent.com/lee-steven/lee-steven/master/icons/linkedin.png" width="30" style="display:inline-block; padding-right:30px"></a>
-<a href="https://www.instagram.com/stevenwonlee/"><img src="https://raw.githubusercontent.com/lee-steven/lee-steven/master/icons/instagram.png" width="30" style="display:inline-block; padding-right:30px"></a>
-<a href="https://www.facebook.com/steven.lee.104"><img src="https://raw.githubusercontent.com/lee-steven/lee-steven/master/icons/facebook.png" width="30" style="display:inline-block; padding-right:30px"></a>
+<a href="https://www.linkedin.com/in/lee-steven/"><img src="https://raw.githubusercontent.com/lee-steven/lee-steven/master/icons/linkedin.png" width="30"></a> &nbsp;
+<a href="https://www.instagram.com/stevenwonlee/"><img src="https://raw.githubusercontent.com/lee-steven/lee-steven/master/icons/instagram.png" width="30"></a> &nbsp;
+<a href="https://www.facebook.com/steven.lee.104"><img src="https://raw.githubusercontent.com/lee-steven/lee-steven/master/icons/facebook.png" width="30"></a>
 
 <!--
 **lee-steven/lee-steven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
